@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "I love Fahim",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "FEMBOYOBBY.aternos.me",
+    "ip": "FEMBOYOBBY.aternos.me:37690",
     "port": 37690,
     "version": "1.21.1",
     "try-creative": false
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-      
-        "Fahim is Nigger"
+        "I'm a regular player",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
