@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FEMBOYOBBY.aternos.me:37690",
+    "ip": "FEMBOYOBBY.aternos.me",
     "port": 37690,
     "version": "1.21.1",
     "try-creative": false
